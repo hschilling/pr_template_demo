@@ -8,8 +8,6 @@ Describe the steps taken to test your changes.
 
 ## Checklist
 
-Put X's in between the [] to document that you have completed that step
-
 *   [ ] Performed a self-review of my own code
 *   [ ] Commented my code, particularly in hard-to-understand areas
 *   [ ] My code follows the project's coding standards
